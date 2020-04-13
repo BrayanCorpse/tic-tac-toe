@@ -1,2 +1,2 @@
 # tic-tac-toe
-<p>Tic tac toe game with Jquery, Js</p>
+<h1>Tic tac toe game with JS</h1>
